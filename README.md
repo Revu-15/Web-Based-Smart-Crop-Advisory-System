@@ -27,7 +27,7 @@ Follow these steps to set up the project locally:
 ### 2. Setup
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/nelapatipraveenkumar/Web-Based-Smart-Crop-Advisory-System.git
+git clone https://github.com/Revu-15/Web-Based-Smart-Crop-Advisory-System.git
 cd Web-Based-Smart-Crop-Advisory-System
 cd backend
 npm install
